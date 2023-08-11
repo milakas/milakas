@@ -1,6 +1,5 @@
-### Milena | frontend dev
-coder, matcha lover, full time learner
-<a href="https://t.me/mi_parfenova" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40mi__parfenova-28a8ea">
+### Hello, I'm Milena 🤍
+<a href="https://t.me/mi_parfenova" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40mi__parfenova-AEE2FF">
 </a>
 <a href="mailto:mi_parfenova@mail.ru"><img src="https://img.shields.io/badge/Email-%40mi__parfenova@mail.ru-FFD1DA"></a>
 <a href="https://mila-kim.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-MilaKim-7A8998"></a>
